@@ -1,0 +1,16 @@
+C:\Users\aluno\source\repos\lista1ex3\lista1ex3\bin\Debug\lista1ex3.exe.config
+C:\Users\aluno\source\repos\lista1ex3\lista1ex3\bin\Debug\lista1ex3.exe
+C:\Users\aluno\source\repos\lista1ex3\lista1ex3\bin\Debug\lista1ex3.pdb
+C:\Users\aluno\source\repos\lista1ex3\lista1ex3\obj\Debug\lista1ex3.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\lista1ex3\lista1ex3\obj\Debug\lista1ex3.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\lista1ex3\lista1ex3\obj\Debug\lista1ex3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\lista1ex3\lista1ex3\obj\Debug\lista1ex3.exe
+C:\Users\aluno\source\repos\lista1ex3\lista1ex3\obj\Debug\lista1ex3.pdb
+C:\Users\aluno\Desktop\lista1\lista1ex3\lista1ex3\bin\Debug\lista1ex3.exe.config
+C:\Users\aluno\Desktop\lista1\lista1ex3\lista1ex3\bin\Debug\lista1ex3.exe
+C:\Users\aluno\Desktop\lista1\lista1ex3\lista1ex3\bin\Debug\lista1ex3.pdb
+C:\Users\aluno\Desktop\lista1\lista1ex3\lista1ex3\obj\Debug\lista1ex3.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\lista1\lista1ex3\lista1ex3\obj\Debug\lista1ex3.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\lista1\lista1ex3\lista1ex3\obj\Debug\lista1ex3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\lista1\lista1ex3\lista1ex3\obj\Debug\lista1ex3.exe
+C:\Users\aluno\Desktop\lista1\lista1ex3\lista1ex3\obj\Debug\lista1ex3.pdb
