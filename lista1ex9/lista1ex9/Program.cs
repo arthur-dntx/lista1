@@ -14,7 +14,7 @@ namespace lista1ex9
            double raio;
            double area;
 
-            Console.WriteLine("    -- DIAMETRO DO CIRCULO --");
+            Console.WriteLine("    -- AREA DO CIRCULO ATRAVES DO DIAMETRO --");
 
            Console.Write("Digite o diâmetro do círculo: ");
             diametro = Convert.ToDouble(Console.ReadLine());
