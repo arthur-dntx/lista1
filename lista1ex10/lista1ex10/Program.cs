@@ -23,7 +23,7 @@ namespace lista1ex10
             quantidadeDolares = Convert.ToDouble(Console.ReadLine());
             valorEmReais = quantidadeDolares * cotacaoDolar;
             
-            Console.WriteLine("O valor em Reais é: R$ {0", valorEmReais);
+            Console.WriteLine("O valor em Reais é: R$ {0}", valorEmReais);
             
             Console.ReadKey();
         }
